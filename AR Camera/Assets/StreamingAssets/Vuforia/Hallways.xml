@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="3MidStairs1" size="15.000000 26.666666" />
+    <ImageTarget name="3BrownStairs" size="15.000000 26.666666" />
+    <ImageTarget name="3Diagonal2" size="15.000000 26.666666" />
+    <ImageTarget name="3Diagonal" size="15.000000 26.666666" />
+    <ImageTarget name="3MathRight" size="15.000000 26.666666" />
+    <ImageTarget name="3ScienceStairs" size="15.000000 26.666666" />
+    <ImageTarget name="3TurningLeft2" size="15.000000 26.666666" />
+    <ImageTarget name="3TurningLeft" size="15.000000 26.666666" />
+    <ImageTarget name="3MidStairsIn" size="15.000000 26.666666" />
+    <ImageTarget name="3MidStairs" size="15.000000 26.666666" />
+    <ImageTarget name="3FrontDoor" size="15.000000 26.666666" />
+    <ImageTarget name="3FrontStairs" size="15.000000 26.666666" />
+    <ImageTarget name="ComSciRight" size="15.000000 26.666666" />
+    <ImageTarget name="ComSciLeft1" size="15.000000 26.666666" />
+    <ImageTarget name="ComSciEnd" size="15.000000 26.666666" />
+    <ImageTarget name="EnterBrown" size="15.000000 26.666666" />
+    <ImageTarget name="Brown" size="15.000000 26.666666" />
+    <ImageTarget name="ExitBrown" size="15.000000 26.666666" />
+    <ImageTarget name="FrontStair1" size="15.000000 26.666666" />
+    <ImageTarget name="FrontStair2" size="15.000000 26.666666" />
+    <ImageTarget name="Mirror" size="15.000000 26.666666" />
+    <ImageTarget name="Elevator" size="15.000000 26.666666" />
+    <ImageTarget name="Ramp" size="15.000000 26.666666" />
+    <ImageTarget name="ComSci" size="50.000000 88.888885" />
+    <ImageTarget name="Exit" size="15.000000 11.250000" />
+  </Tracking>
+</QCARConfig>
